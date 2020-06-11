@@ -1,6 +1,6 @@
 # Laravel 6.x task
 ### Summary	
-Create a laravel 6.x project to develop the REST API for customers and providersenter link description here. [enter link description here](verbosetechlabs-php-task)
+Create a laravel 6.x project to develop the REST API for customers and providersenter link description here.
 Use following technologies:
 - Mysql 5.7+
 - Php 7.2
